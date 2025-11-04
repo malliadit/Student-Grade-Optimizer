@@ -21,7 +21,7 @@ The Student Grade Predictor is an interactive Python tool designed to help stude
 
 ## Usage
 
-1. Run the script using Python: `python grade_predictor.py`
+1. Run the script using Python: `main.py`
 2. Enter your target final grade.
 3. Input the number of assessments along with their names, weights, and scores.
 4. The program outputs:
